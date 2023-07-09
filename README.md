@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Piyush Hatewar</h1>
+<h1 align="center">Hi 👋, I'm Kushal Gujar</h1>
 <h3 align="center">A passionate backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gujarkushal256&label=Profile%20views&color=0e75b6&style=flat" alt="gujarkushal256" /> </p>
